@@ -17,7 +17,6 @@ reg_center_type
 role_list
 status_type
 template_file_format
-template_type
 title
 individual_type
 zone
@@ -39,7 +38,6 @@ reason_list
 registration_center
 screen_detail
 status_list
-template
 applicant_valid_document
 valid_document
 # Level 3
